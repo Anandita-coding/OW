@@ -1,0 +1,9 @@
+h1{ 
+    background-color: antiquewhite
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+
+}
